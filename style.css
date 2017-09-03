@@ -1,7 +1,18 @@
 body {
     background-color: #aaa;
+    text-align: center
 }
 
 header {
     text-align: center
+}
+
+.content {
+    font-size: 50px;
+    background-color: #fff;
+}
+
+footer {
+    background-color: #ff0;
+    padding: 10px;
 }
